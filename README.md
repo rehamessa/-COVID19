@@ -2,7 +2,7 @@
 ### COVID19
 
 <p align="center">
-  <img src="image/pn.51.17.figure1.jpg" />
+  <img src="image/jZqpV51.png" />
 </p>
 
 > Dataset Link:- https://www.kaggle.com/miracle9to9/files1
